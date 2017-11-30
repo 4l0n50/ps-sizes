@@ -3,6 +3,8 @@ from sympy.plotting import plots
 
 # Symmetric version
 
+# kasjhksajhdkjashd
+
 # Compute the CRS and proof size of a GS-like proof system
 # Sizes are given as a 2-dimensional array with 2 columns, that is,
 # size = [a1,a2] and a1,a2 are 1 dimensional array. size[0] is a polynomial
